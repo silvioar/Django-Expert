@@ -11,19 +11,22 @@ This is how (briefly) the project works
 
 ![image](https://user-images.githubusercontent.com/71708004/141700378-2798296f-1418-43b1-b960-746bf18da961.png)
 
-And this is a visual of how big is the project tree:
+And this is a visual of how big is the project tree (It's imposible to show all the tree):
 
 ![image](https://user-images.githubusercontent.com/71708004/141701491-355f856e-5a7d-4f09-9700-409114c4e992.png)
 
 *I will not share the scripts since it is part of a set of projects that I plan to sell in the future.*
 
 Some of the technologies of the project:
-1. AWS S3 bucket, for store the product images.
-2. SQL queries for a better performance of the Django Models.
-3. A lot of JS and React, for better dynamism of the dashboard.
-4. Login and logout for security reasons.
-5. Instant connection between forms and graphs, for a real time dashboard.
-6. The project allows payments in installments, charging the installments automatically in the corresponding months.
+1. Heroku for free hosting and their GIT repo.
+2. AWS S3 bucket, for store the product images.
+3. SQL queries for a better performance of the Django Models.
+4. A lot of JS and React, for better dynamism of the dashboard.
+5. Login and logout for security reasons.
+6. Instant connection between forms and graphs, for a real time dashboard.
+7. The project allows payments in installments, charging the installments automatically in the corresponding months.
+
+And a lot more!
 
 If you are interested more on this project, please contact me!: silvio.aranda06@gmail.com
 
