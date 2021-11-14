@@ -11,6 +11,10 @@ This is how (briefly) the project works
 
 ![image](https://user-images.githubusercontent.com/71708004/141700378-2798296f-1418-43b1-b960-746bf18da961.png)
 
+And this is an image of how big is the project tree:
+
+![image](https://user-images.githubusercontent.com/71708004/141701491-355f856e-5a7d-4f09-9700-409114c4e992.png)
+
 *I will not show the scripts since it is part of a set of projects that I plan to sell in the future.*
 
 Some of the technologies of the project:
