@@ -2,12 +2,13 @@
 
 ## https://proyectoropa.herokuapp.com/erp/dashboard/
 
-
+![image](https://user-images.githubusercontent.com/71708004/141700366-e0c1b301-0df4-47b4-a105-533ad6c444f8.png)
 
 This is a big Django project that simulates an inventary stock of a cloth store. You can login and play with it to see how dynamic is.
 
 This is how (briefly) the project works
 
+![image](https://user-images.githubusercontent.com/71708004/141700378-2798296f-1418-43b1-b960-746bf18da961.png)
 
 *I will not show the scripts since it is part of a set of projects that I plan to sell in the future.*
 
