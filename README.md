@@ -4,7 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/71708004/141700366-e0c1b301-0df4-47b4-a105-533ad6c444f8.png)
 
-This is a big Django project that simulates an inventary stock of a cloth store. You can login and play with it to see how dynamic is.
+This is a big Django project that simulates an inventary stock of a cloth store. 
+You can login and play with it to see how dynamic is (clicking dropdown you'll access all the options)
 
 This is how (briefly) the project works
 
