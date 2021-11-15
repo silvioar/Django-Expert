@@ -1,6 +1,6 @@
 # Django-Expert
 
-## https://proyectoropa.herokuapp.com/erp/dashboard/
+## https://proyectoropa.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/71708004/141700366-e0c1b301-0df4-47b4-a105-533ad6c444f8.png)
 
