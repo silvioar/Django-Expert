@@ -9,7 +9,7 @@ You can login and play with it to see how dynamic is it (clicking dropdown you'l
 
 This is how (briefly) the project works
 
-![image](https://user-images.githubusercontent.com/71708004/141700378-2798296f-1418-43b1-b960-746bf18da961.png)
+![image](https://user-images.githubusercontent.com/71708004/148116426-8eede01e-faa2-439b-8610-4ae457391ea8.png)
 
 And this is a visual of how big is the project tree (It's imposible to show all the tree):
 
